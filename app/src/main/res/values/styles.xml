@@ -1,0 +1,23 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="searchViewStyle">@style/searchViewStyle</item>
+    </style>
+
+    <style name="searchViewStyle">
+        <item name="searchHintIcon">@null</item>
+        <item name="voiceIcon">@drawable/ic_voice</item>
+        <item name="closeIcon">@drawable/ic_close</item>
+
+    </style>
+
+    <style name="toolbarTheme" parent="Widget.AppCompat.ActionBar">
+        <item name="colorControlHighlight">@color/colorControlHighlight</item>
+    </style>
+
+</resources>

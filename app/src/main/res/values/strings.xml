@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Youtube_toolbar_clone</string>
+    <string name="search_widget_hint">Search Youtube</string>
+</resources>
